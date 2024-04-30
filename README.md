@@ -8,9 +8,9 @@ I'm a Cloud | DevOps Engineer. I'm passionate about sharing knowledge, documenta
 
 - 😊 Pronouns: He/him
 - 💡 Fun fact: I studied at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I’m currently learning Linux, Kubernetes, CiCD.
-- 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Cloud Engineer, or DevOps Engineer (Intern or Junior level).
+- 🌱 Linux, Kubernetes, CiCD.
+- 😊 I’m looking for help with open source projects, hackathons, and mid-level opportunities.
+- 💼 Job interests: Software Engineer, Cloud Engineer, or DevOps Engineer (Mid level).
 - 📫 You can contact me by emailing saluayomide@gmail.com.
 
 ---
